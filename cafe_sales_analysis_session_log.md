@@ -1,3 +1,5 @@
+**initial conversation between me and chatgpt to refine the dirty csv **
+https://chatgpt.com/share/6b02d5c1-8a9c-83e8-bc83-5501486f9654
 # Cafe Sales Data Analysis — Conversation & Reference Log
 
 **Dataset:** `dirty_cafe_sales_cleaned.csv`  
